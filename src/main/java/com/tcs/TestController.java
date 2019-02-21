@@ -15,7 +15,7 @@ public class TestController {
 		System.out.println("in controller");
  
 		ModelAndView mv = new ModelAndView("dummyworld");
-		mv.addObject("message", message);
+		mv.addObject("message", message);//Invalid Comment at end of line
 		mv.addObject("name", name);
 		return mv;
 	}

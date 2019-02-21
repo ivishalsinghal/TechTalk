@@ -5,7 +5,7 @@
   <artifactId>DummyApplication</artifactId>
   <packaging>war</packaging>
   <version>1.622</version>
-  <name>CICD</name>
+  <name>CICD2</name>
   <url>http://maven.apache.org</url>
   <properties>
 	<spring.version>4.0.1.RELEASE</spring.version>

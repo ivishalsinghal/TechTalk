@@ -12,7 +12,7 @@ pageEncoding="ISO-8859-1"%>
 	<center>
 		<h2>Welcome to Jenkins Tutorial</h2>
 		<h3>
-			<a href="hello?name=GE1">Click Here</a>
+			<a href="hello?name=GE11">Click Here</a>
 		</h3>
 	</center>
 </body>

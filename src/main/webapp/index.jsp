@@ -10,7 +10,7 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>Welcome to CICD Demo4</h2>
+		<h2>Welcome to CICD Demo</h2>
 		<h3>
 			<a href="hello?name=Leaders">Click Here</a>
 		</h3>

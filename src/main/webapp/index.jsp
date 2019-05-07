@@ -5,14 +5,14 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Day2</title>
+<title>May15</title>
 </head>
 <body>
  
 	<center>
-		<h2>Welcome to TechTalk</h2>
+		<h2>Welcome to CI/CD Demo</h2>
 		<h3>
-			<a href="hello?name=TCS11">Click Here</a>
+			<a href="hello?name=Leaders">Click Here</a>
 		</h3>
 	</center>
 </body>

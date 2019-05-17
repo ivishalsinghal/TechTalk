@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>Demo</groupId>
-  <artifactId>Demo_May15</artifactId>
+  <artifactId>Demo_May17</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>CI/CD Demo May 15</name>
+  <name>CI/CD Demo May 17</name>
   <url>http://maven.apache.org</url>
   <properties>
 	<spring.version>4.0.1.RELEASE</spring.version>

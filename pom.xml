@@ -5,7 +5,7 @@
   <artifactId>Demo_May17</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>CI/CD Demo May 17</name>
+  <name>Aurizon CI/CD Demo May 21</name>
   <url>http://maven.apache.org</url>
   <properties>
 	<spring.version>4.0.1.RELEASE</spring.version>
